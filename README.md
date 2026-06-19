@@ -1,0 +1,2 @@
+# P53BindML-An-ML-Guided-SBVS-Framework-for-Prioritizing-Compounds-Targeting-Mutant-p53-R248H-R273H
+P53BindML is an ML-guided structure-based virtual screening (SBVS) framework for identifying and prioritizing compounds with the potential to bind the shallow groove of mutant p53 (R248H and R273H). It integrates PLEC descriptors, ConvMol representations, and ML models (SVM, RF, XGB, ANN, DNN, and GNN).
