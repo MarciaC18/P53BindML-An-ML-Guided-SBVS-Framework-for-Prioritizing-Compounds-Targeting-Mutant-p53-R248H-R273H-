@@ -44,7 +44,7 @@ The graph convolutional network (GCN) architecture and training procedure were a
 
 > Gardeina/TSSF-GCN — [Graph convolutional neural networks improved target-specific scoring functions for cGAS and kRAS in virtual screening](https://www.sciencedirect.com/science/article/pii/S2001037025001886). [GitHub repository](https://github.com/Gardeina/TSSF-GCN)
 
-This framework also builds on our previous work applying machine-learning-guided virtual screening to protein-protein interaction targets:
+A simialr framework also builds on our previous work applying machine-learning-guided virtual screening to protein-protein interaction targets:
 
 > Castillo Tarazona MY and Miscione GP (2026) Enhancing structure-based virtual screening of MDM2–p53 inhibitors: a benchmark of machine learning vs. traditional docking scoring functions. *Front. Drug Discov.* 5:1731262. doi: [10.3389/fddsv.2025.1731262](https://doi.org/10.3389/fddsv.2025.1731262). [GitHub repository](https://github.com/MarciaC18/Identification-of-MDM2-P53-Inhibitors-Using-Machine-Learning-Guided-Screening)
 
